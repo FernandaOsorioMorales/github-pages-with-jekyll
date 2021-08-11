@@ -1,6 +1,6 @@
 ---
-Title: "Fernanda Blog"
-Date: 2021-08-11
+title: "Fernanda Blog"
+date: 2021-08-11
 ---
 
 
